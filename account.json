@@ -1,0 +1,14 @@
+{
+  "1234": {
+    "name": "Ahmed",
+    "midname": "Saidani",
+    "score": 10,
+    "absences": 0
+  },
+  "5678": {
+    "name": "Mona",
+    "midname": "Ali",
+    "score": 5,
+    "absences": 2
+  }
+}
